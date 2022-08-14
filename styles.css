@@ -303,6 +303,9 @@ main {
 
 .project__description {
   margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
 }
 
 .project__stack {
