@@ -305,7 +305,7 @@ main {
   margin-top: 1em;
   display: flex;
   flex-direction: column;
-  gap: 0.6em;
+  gap: 0.8em;
 }
 
 .project__stack {
